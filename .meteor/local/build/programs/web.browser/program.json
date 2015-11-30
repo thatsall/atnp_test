@@ -761,9 +761,9 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/views/layouts/main.js?342f70db9f9b71df911965e20767049c5fe4a8fa",
-      "size": 1607,
-      "hash": "342f70db9f9b71df911965e20767049c5fe4a8fa"
+      "url": "/client/views/layouts/main.js?214ed12c000a6b01952bf49a842b35f80109f581",
+      "size": 1609,
+      "hash": "214ed12c000a6b01952bf49a842b35f80109f581"
     },
     {
       "path": "55cf8734a84c917ea872e016742cff7bb956eec4.css",
